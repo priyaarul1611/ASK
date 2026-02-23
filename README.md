@@ -134,9 +134,9 @@ plt.show()
 ```
 # Output Waveform
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/52662e41-7235-47da-b41c-7152d4c1b8fe" />
-
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/cc1c674b-0ab3-4d3d-a99b-3aee7169dba6" />
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/90fb54bb-748d-4b4a-9ec4-b8d1d52bf4fe" />
+
 # Results
 Thus successfully simulated and demoonstrated the ASK and FSK
 
